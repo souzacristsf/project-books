@@ -1,6 +1,6 @@
-## Sistema para empréstimo e doações de livros/ebooks
+# Sistema para empréstimo e doações de livros/ebooks
 
-#Ferramentas que serão usadas:
+##Ferramentas que serão usadas:
   - server => NodeJS, Express, Mongoose
   - banco de dados => MongoDB
   - Cliente => Angular, MaterializeCSS, HTML5, CSS3, ES6
@@ -17,11 +17,11 @@ artigos sobre o conhecimento que possui e postar desafios.
   A meta central do sistema é disseminar o conhecimento, facilitando o empréstimo ou doações,
 ficado assim a venda em segundo plano e não como o foco principal do sistema.
 
-#Integrações:
+##Integrações:
   - pagamento => PayPal
   - Login => Google, Twitter, Facebook
 
-#Telas
+##Telas
   - Uma tela inicial que poderá ser mostrado um mapa que estão concentrado os livros e abaixo deste
 mapa cards com artigos ou perfil de pessoas que estão cadastrados.
   - tela para Login
